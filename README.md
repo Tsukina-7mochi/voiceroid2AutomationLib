@@ -1,0 +1,2 @@
+# voiceroid2AutomationLib
+VOICEROID2 エディタをバックグラウンド操作するライブラリ
